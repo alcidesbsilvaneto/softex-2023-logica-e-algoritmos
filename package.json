@@ -1,0 +1,17 @@
+{
+  "name": "logica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alcides Bezerra <alcides.bsilvaneto@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
